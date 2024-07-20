@@ -1,0 +1,14 @@
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.2-TheShapesProdigy-master\TheShapesProdigy\obj\Debug\netcoreapp3.1\TheShapesProdigy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.2-TheShapesProdigy-master\TheShapesProdigy\obj\Debug\netcoreapp3.1\TheShapesProdigy.AssemblyInfoInputs.cache
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.2-TheShapesProdigy-master\TheShapesProdigy\obj\Debug\netcoreapp3.1\TheShapesProdigy.AssemblyInfo.cs
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.2-TheShapesProdigy-master\TheShapesProdigy\obj\Debug\netcoreapp3.1\TheShapesProdigy.csproj.CoreCompileInputs.cache
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.2-TheShapesProdigy-master\TheShapesProdigy\bin\Debug\netcoreapp3.1\TheShapesProdigy.exe
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.2-TheShapesProdigy-master\TheShapesProdigy\bin\Debug\netcoreapp3.1\TheShapesProdigy.deps.json
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.2-TheShapesProdigy-master\TheShapesProdigy\bin\Debug\netcoreapp3.1\TheShapesProdigy.runtimeconfig.json
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.2-TheShapesProdigy-master\TheShapesProdigy\bin\Debug\netcoreapp3.1\TheShapesProdigy.runtimeconfig.dev.json
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.2-TheShapesProdigy-master\TheShapesProdigy\bin\Debug\netcoreapp3.1\TheShapesProdigy.dll
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.2-TheShapesProdigy-master\TheShapesProdigy\bin\Debug\netcoreapp3.1\TheShapesProdigy.pdb
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.2-TheShapesProdigy-master\TheShapesProdigy\obj\Debug\netcoreapp3.1\TheShapesProdigy.dll
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.2-TheShapesProdigy-master\TheShapesProdigy\obj\Debug\netcoreapp3.1\TheShapesProdigy.pdb
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.2-TheShapesProdigy-master\TheShapesProdigy\obj\Debug\netcoreapp3.1\TheShapesProdigy.genruntimeconfig.cache
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.2-TheShapesProdigy-master\TheShapesProdigy\bin\Debug\netcoreapp3.1\Shapes.csv
